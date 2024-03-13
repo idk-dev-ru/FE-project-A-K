@@ -10,4 +10,18 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    padding-top: -100px;
+    font-size: 69px;
+}
+
+.Search {
+    height: 100px;
+    color: #fff;
+    display: flex;
+    align-items: top;
+    justify-content: top;
+    padding-top: -100px;
+    font-size: 69px;
+    width: 200px;
+
 }
