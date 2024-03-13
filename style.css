@@ -10,18 +10,24 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    padding-top: -100px;
+    /* padding-top: -100px; */
     font-size: 69px;
+    flex-direction: column;
 }
 
-.Search {
+.search {
     height: 100px;
     color: #fff;
     display: flex;
     align-items: top;
     justify-content: top;
-    padding-top: -100px;
+    /* padding-top: -100px; */
     font-size: 69px;
     width: 200px;
+}
 
+.search form {
+    height: 2rem;
+    display: flex;
+    flex-direction: row;
 }
