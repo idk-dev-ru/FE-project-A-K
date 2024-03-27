@@ -21,13 +21,13 @@
     display: flex;
     align-items: top;
     justify-content: top;
-    /* padding-top: -100px; */
     font-size: 69px;
     width: 200px;
 }
 
 .search form {
-    height: 2rem;
+    height: 3rem;
     display: flex;
     flex-direction: row;
+    
 }
