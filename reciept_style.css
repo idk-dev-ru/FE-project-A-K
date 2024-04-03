@@ -1,0 +1,48 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background: url("Еда.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+}
+
+.container {
+    width: 70%;
+    margin: auto;
+}
+
+.left-col {
+    width: 60%;
+    color: #fff;
+}
+
+.left-col p {
+    font-size: larger;
+}
+
+.right-col {
+    width: 40%;
+    display: flex;
+    justify-content: end;
+}
+
+.right-col img {
+    max-height: 200px;
+}
+
+.step {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+hr {
+    width: 80%;
+    margin: auto;
+}
